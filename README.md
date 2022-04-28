@@ -1,6 +1,6 @@
 ### Greetings 👋
 
-👨‍💻 Javascript/Typescript developer (React, Angular, Node).  
+👨‍💻 Javascript/Typescript developer (React, Next, Node).  
 📚 Learning from all sources of information.  
 🧐 Quick learner, grateful and open-minded.  
 🧠 I am 2-nd year student at KPI university.  
