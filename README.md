@@ -9,6 +9,7 @@
 
 
 ### Projects
+ - 📰 [game_news](https://gameeenews.herokuapp.com/) - React, TS, API, Node.js, express.js, Redux/Redux Toolkit
  - 💬 [chat_AN](https://chat-an0n.herokuapp.com/) - React, TS, Rest API, Node.js, express.js, Socket.io, Redux/Redux Toolkit
  - 🤖 [gashbot](https://github.com/okukharuk/gashbot) - Node.js, mongoDB, Telegram API
  - 📝 [superheroes_app](https://dipp-superheroes-app.herokuapp.com/) - React, TS, Rest API, Node.js, express.js, mongoDB, Redux Toolkit (Frontend / Backend)
