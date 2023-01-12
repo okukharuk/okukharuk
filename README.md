@@ -1,5 +1,7 @@
 ### Greetings 👋
 
+<code>💡 [Skills](SKILLS.md)</code>
+
 👨‍💻 Javascript/Typescript developer (React, Next, Node).  
 📚 Learning from all sources of information.  
 🧐 Quick learner, grateful and open-minded.  
