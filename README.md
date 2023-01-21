@@ -11,10 +11,10 @@
 
 
 ### Projects
- - 📰 [game_news](https://gameeenews.herokuapp.com/) - React, TS, API, Node.js, express.js, Redux/Redux Toolkit
- - 💬 [chat_AN](https://chat-an0n.herokuapp.com/) - React, TS, Rest API, Node.js, express.js, Socket.io, Redux/Redux Toolkit
+ - 📰 [game_news](https://github.com/okukharuk/game_news) - React, TS, API, Node.js, express.js, Redux/Redux Toolkit
+ - 💬 [chat_AN](https://github.com/okukharuk/chat_AN) - React, TS, Rest API, Node.js, express.js, Socket.io, Redux/Redux Toolkit
  - 🤖 [gashbot](https://github.com/okukharuk/gashbot) - Node.js, mongoDB, Telegram API
- - 📝 [superheroes_app](https://dipp-superheroes-app.herokuapp.com/) - React, TS, Rest API, Node.js, express.js, mongoDB, Redux Toolkit (Frontend / Backend)
+ - 📝 [superheroes_app](https://github.com/okukharuk/superheroes_app) - React, TS, Rest API, Node.js, express.js, mongoDB, Redux Toolkit (Frontend / Backend)
  - 🐾 [pokedex](https://okukharuk.github.io/pokedex) - React, TS, API, Redux (Frontend)
  - 💸 [curr_app](https://okukharuk.github.io/curr_app) - React, TS, API, Redux (Frontend)
  
